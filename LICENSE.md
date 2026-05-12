@@ -1,4 +1,4 @@
-# 
+# custom NFT Floor Sweeper for nft wash trading bot | multi-chain-support & liquidity-analysis is the best nft wash trading bot, featuring multi-chain-support and
 
 
 
